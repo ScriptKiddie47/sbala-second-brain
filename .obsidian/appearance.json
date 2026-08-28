@@ -1,1 +1,11 @@
-{}
+{
+  "theme": "obsidian",
+  "interfaceFontFamily": "",
+  "textFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono",
+  "baseFontSize": 13,
+  "baseFontSizeAction": false,
+  "showViewHeader": false,
+  "showRibbon": true,
+  "nativeMenus": false
+}

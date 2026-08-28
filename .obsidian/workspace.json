@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4185b983b06dcc47",
+        "id": "b3083e154ef32e15",
         "type": "tabs",
         "children": [
           {
-            "id": "ccae3af1feac577f",
+            "id": "3bd9703588b826b0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "HTML and JavaScript.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "HTML and JavaScript"
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "HTML and JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "HTML and JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -155,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "HTML and JavaScript.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -174,11 +181,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,7 +200,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ccae3af1feac577f",
+  "active": "3bd9703588b826b0",
   "lastOpenFiles": [
     "HTML and JavaScript.md",
     "Untitled",
