@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML and JavaScript.md",
+                "file": "HTML Design Basics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTML and JavaScript"
+              "title": "HTML Design Basics"
+            }
+          },
+          {
+            "id": "3f72e9840f43615e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring/Spring Exception Handling.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spring Exception Handling"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML and JavaScript.md",
+                "file": "Spring/Spring Exception Handling.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -200,10 +215,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3bd9703588b826b0",
+  "active": "3f72e9840f43615e",
   "lastOpenFiles": [
-    "HTML and JavaScript.md",
-    "Untitled",
+    "Spring/Spring Exception Handling.md",
+    "HTML Design Basics.md",
+    "Spring",
+    "Untitled/Untitled",
     "Untitled.base"
   ]
 }

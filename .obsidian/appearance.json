@@ -3,9 +3,11 @@
   "interfaceFontFamily": "",
   "textFontFamily": "JetBrains Mono",
   "monospaceFontFamily": "JetBrains Mono",
-  "baseFontSize": 13,
+  "baseFontSize": 12,
   "baseFontSizeAction": false,
   "showViewHeader": false,
   "showRibbon": true,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "cssTheme": "AnuPpuccin",
+  "accentColor": "#e2e0e6"
 }
