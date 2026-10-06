@@ -1,6 +1,6 @@
-This won't language features on a syntactical level. Better use documentation for this. This note mostly covers the code style , important concepts.
+ This won't language features on a syntactical level. Better use documentation for this. This note mostly covers the code style , important concepts.
 
-#### Higher Order Function
+#### HIGHER ORDER FUNCTION
 
 ```js
 function add(n1,n2){
@@ -22,5 +22,13 @@ Higher order functions are functions that take one or more functions as argument
 
 Arrow functions don't have their own `this` — they inherit it from the enclosing scope, lexically, at the point where they're _defined_, not from how they're _called_.'
 
-#### Objects
+#### JSON
+
+```js
+const jsonData = JSON.stringify(data); // TO STRING
+const data = JSON.parse(jsonData); // TO A JS OBJECT
+```
+
+
+#### PROMISE API
 

@@ -72,7 +72,7 @@ function handleClick(){
 1. For the first line we are giving the reference of the function -> `handleClick` instead of  `handleClick()` If we add the parenthesis -> we end up calling the function
 #### The `this` keyword
 
-Usage of `this` keyword refers to the HTML element but be careful. Note : Function vs Arrow Function usage of this ->  [[JavaScript#Perils of 'this' in JS]]
+Usage of `this` keyword refers to the HTML element but be careful. Note : Function vs Arrow Function usage of this ->  [[JS#Perils of 'this' in JS]]
 
 #### Sounds
 
