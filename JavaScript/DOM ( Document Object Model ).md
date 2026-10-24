@@ -93,4 +93,5 @@ document.addEventListener("keydown", function (e) {
 ```
 
 1. https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent
+2. Read a bit more here [[React Forms#EVENTS]]
 

@@ -53,6 +53,18 @@ const config = {
 export default config;
 ```
 
+Prettier Config TS - `.prettierrc.ts` -> Also run `npm install --save-dev prettier`
+
+```ts
+import { type Config } from "prettier";
+const config: Config = {
+  trailingComma: "none",
+  tabWidth: 4,
+  semi: true,
+  singleQuote: true,
+};
+export default config;
+```
 #### Directory Navigator
 
 1. Say your want to navigate to a file. This is the best way.

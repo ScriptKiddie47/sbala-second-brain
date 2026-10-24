@@ -1,6 +1,6 @@
 # React Basics
 
-## 1. Conditional Rendering
+## 1. Conditional Rendering ( VERY IMPORTANT )
 
 Use ternary for if/else:
 
@@ -14,7 +14,7 @@ Use ternary for if/else:
 </div>
 ```
 
-When you don't need the `else` branch, use shorter [logical `&&`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_AND#short-circuit_evaluation):
+When you don't need the `else` branch, use shorter [logical `&&`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_AND#short-circuit_evaluation): NOTE : THIS IS DIFFERENT IN REACT VS PLAIN OLD JS
 
 ```jsx
 {isLoggedIn && <AdminPanel />}
@@ -155,7 +155,7 @@ function App() {
 }
 ```
 
-> The `key` prop must go on the element returned from `map` — here `<Card>` — not on a child inside `Card`. React looks for `key` on the siblings React reconciles, so a key on an inner element (e.g. the `<div className="card">`) is ignored and warns: *"Each child in a list should have a unique key prop."*
+> The `key` prop must go on the element returned from `map`. React looks for `key` on the siblings React reconciles, so a key on an inner element (e.g. the `<div className="card">`) is ignored and warns: *"Each child in a list should have a unique key prop."*
 
 Use a stable, unique value (like `c.id`) for the key. `key` is a React-only attribute and is not passed to the component as a prop.
 
